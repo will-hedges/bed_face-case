@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name bed-face-components)(type KiCad)(uri ${KIPRJMOD}/bed-face-components.pretty)(options "")(descr ""))
+)
